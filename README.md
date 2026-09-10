@@ -8,8 +8,10 @@ or where the margin actually sits.
 
 ## What is inside and how to use it
 
-**`india-ecommerce-logistics.html`** — open it in a browser. Self-contained, no install,
-no server.
+**Read it here: [pawanchan07.github.io/india-ecommerce-logistics-guide](https://pawanchan07.github.io/india-ecommerce-logistics-guide/)**
+
+Or clone the repo and open `india-ecommerce-logistics.html` in a browser. It is one
+self-contained file. No install, no server, no build step, works offline.
 
 It follows the parcel: first mile, sortation, line haul, last mile, returns — and the
 money moving alongside it: COD, RTO, and the unit economics underneath. It is built to be
