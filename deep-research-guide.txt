@@ -1,0 +1,1091 @@
+# Deep Research: How India's E-commerce Delivery & Logistics Industry Actually Works
+
+## Research Objective
+
+I want to deeply understand the **Indian e-commerce logistics and delivery industry**, specifically the movement of physical products ordered online from a merchant/brand/D2C website to the end consumer.
+
+Do **not** focus primarily on food delivery, restaurant delivery, or ride-hailing.
+
+Focus on companies and networks such as:
+
+* Delhivery
+* Blue Dart
+* DTDC
+* Ecom Express
+* XpressBees
+* Shiprocket
+* Shadowfax
+* Ekart
+* Amazon Shipping / Amazon Transportation Services
+* India Post / Speed Post where relevant
+* Other important Indian logistics, shipping aggregation, courier, fulfillment, and last-mile companies you discover
+
+The objective is NOT simply to understand what these companies do.
+
+I want to understand **the underlying business model, operating model, economics, incentives, labor model, technology, and competitive dynamics of the industry.**
+
+The central question is:
+
+> **When an Indian consumer buys a product online from a merchant, how does that package actually move through the logistics network, who gets paid at every stage, who bears the risk, how are delivery workers incentivized, and why does the merchant choose one logistics partner over another?**
+
+---
+
+# 1. Start With the Industry Map
+
+First construct a clear map of the Indian e-commerce logistics ecosystem.
+
+Explain the roles of:
+
+* Merchant / D2C brand
+* Marketplace
+* Logistics aggregator
+* Courier / express logistics company
+* Fulfillment provider
+* Warehouse
+* Sortation center
+* Mother hub
+* Distribution center
+* Delivery hub
+* Last-mile delivery network
+* Delivery executive
+* Gig worker
+* Franchise partner
+* Local delivery partner
+* Technology platform
+* Reverse logistics provider
+
+Then explain the physical journey of one hypothetical ₹1,500 product:
+
+**Consumer places order → merchant → pickup → first-mile → sorting → line haul → hub → destination hub → last mile → consumer**
+
+Show:
+
+* What happens operationally
+* Which company performs each step
+* Who owns the infrastructure
+* Who owns the vehicle
+* Who employs/contracts the worker
+* Who bears the cost
+* Who receives payment
+
+Create a visual-style value chain in text.
+
+---
+
+# 2. Classify the Major Business Models
+
+Do not treat all logistics companies as the same.
+
+Create a taxonomy of business models such as:
+
+### A. Traditional courier / express logistics
+
+Examples:
+
+* Blue Dart
+* DTDC
+
+### B. Technology-enabled logistics networks
+
+Examples:
+
+* Delhivery
+* Ecom Express
+* XpressBees
+
+### C. Logistics aggregators
+
+Examples:
+
+* Shiprocket
+
+### D. Gig / crowdsourced last-mile networks
+
+Examples:
+
+* Shadowfax and relevant competitors
+
+### E. Captive logistics networks
+
+Examples:
+
+* Ekart
+* Amazon's logistics network
+
+### F. Hybrid models
+
+Identify companies that combine multiple models.
+
+For every model explain:
+
+* Revenue model
+* Cost structure
+* Asset ownership
+* Workforce model
+* Technology intensity
+* Network density
+* Typical customer
+* Strengths
+* Weaknesses
+* Scalability
+* Unit economics
+* Why a merchant would choose it
+
+---
+
+# 3. The Most Important Section: FOLLOW THE MONEY
+
+I want you to reconstruct the economics of a typical delivery.
+
+Use a hypothetical example where useful.
+
+For example:
+
+> A D2C brand sells a ₹1,500 product and pays ₹X for shipping.
+
+Trace the money.
+
+Explain:
+
+**Merchant → logistics company → network operations → last-mile partner → delivery executive**
+
+Determine:
+
+* What does the merchant typically pay?
+* Is pricing per shipment?
+* Per kg?
+* Volumetric weight?
+* Distance?
+* Zone?
+* COD?
+* RTO?
+* Number of attempts?
+* Reverse pickup?
+* Insurance?
+* Fuel surcharge?
+* Remote-area surcharge?
+* Other fees?
+
+Explain the major components of shipping revenue.
+
+Then explain where that revenue goes.
+
+Build an illustrative unit-economic model:
+
+| Component                 | Example ₹ | Explanation |
+| ------------------------- | --------: | ----------- |
+| Merchant shipping payment |         X |             |
+| First mile                |         X |             |
+| Line haul                 |         X |             |
+| Sortation                 |         X |             |
+| Last mile                 |         X |             |
+| Delivery executive payout |         X |             |
+| Technology/platform cost  |         X |             |
+| Failed delivery/RTO cost  |         X |             |
+| Customer support          |         X |             |
+| Corporate overhead        |         X |             |
+| Contribution margin       |         X |             |
+
+Clearly distinguish:
+
+**Verified industry figures vs illustrative assumptions.**
+
+Never present an assumption as a factual industry number.
+
+---
+
+# 4. Deep Dive: How Delivery Executives Are Actually Paid
+
+This is one of the most important parts of the research.
+
+I want to understand the **real labor economics** behind Indian last-mile delivery.
+
+For each major workforce model, investigate:
+
+### Model 1 — Direct employees
+
+* Are delivery executives employees?
+* Fixed salary?
+* Variable incentives?
+* Per-delivery incentive?
+* Attendance bonus?
+* Fuel allowance?
+* Overtime?
+* Performance bonus?
+
+### Model 2 — Contractors
+
+* Who technically employs the worker?
+* Who contracts with whom?
+* How is payment calculated?
+* What responsibilities are transferred to the contractor?
+
+### Model 3 — Gig workers
+
+Investigate:
+
+* Per-order payout
+* Per-km payout
+* Base payout
+* Peak incentives
+* Surge
+* Minimum guarantee
+* Joining bonus
+* Attendance incentive
+* Completion incentive
+* Distance incentive
+* COD incentive
+* RTO incentive
+* Return-pickup incentive
+* Failed-attempt compensation
+* Penalties
+* Cancellation rules
+* Rating-based incentives
+* Acceptance-rate requirements
+* Shift requirements
+
+### Model 4 — Franchise / local delivery partners
+
+Explain:
+
+* How the franchise receives money
+* How the franchise pays delivery executives
+* Whether the logistics company controls worker incentives
+* Who bears vehicle/fuel costs
+* Who bears failed-delivery costs
+* Who carries operational risk
+
+---
+
+# 5. Build the Delivery Executive Incentive Equation
+
+Try to reconstruct the actual compensation formula.
+
+For example:
+
+**Daily earnings = Base payout + per-delivery incentive + distance incentive + peak incentive + attendance incentive + special-task incentive − penalties − worker operating costs**
+
+Investigate whether this type of structure exists.
+
+Then calculate hypothetical examples:
+
+### Low-volume day
+
+10 deliveries
+
+### Normal day
+
+30 deliveries
+
+### High-volume day
+
+50 deliveries
+
+For each scenario estimate:
+
+* Gross earnings
+* Fuel/vehicle expense
+* Net earnings
+* Hours worked
+* Effective hourly earnings
+
+Again, distinguish verified figures from assumptions.
+
+The goal is to understand:
+
+> **What behavior is the incentive system actually trying to create?**
+
+For example:
+
+* More deliveries?
+* Faster delivery?
+* Higher acceptance?
+* Fewer failed attempts?
+* Better COD collection?
+* Higher attendance?
+* Peak-hour availability?
+* Lower RTO?
+* Better customer ratings?
+
+---
+
+# 6. Explain the INCENTIVE DESIGN
+
+Don't merely list incentives.
+
+Analyze their behavioral purpose.
+
+Create a table:
+
+| Incentive                   | Company wants            | Worker behavior               | Possible unintended consequence |
+| --------------------------- | ------------------------ | ----------------------------- | ------------------------------- |
+| Per-delivery payout         | More throughput          | Accept more deliveries        | Rushing                         |
+| Peak incentive              | Capacity during peaks    | Work peak hours               |                                 |
+| Attendance bonus            | Reliability              | Show up consistently          |                                 |
+| Distance incentive          | Cover difficult routes   | Accept remote deliveries      |                                 |
+| Rating incentive            | Customer experience      | Better service                |                                 |
+| RTO penalty                 | Reduce failed deliveries | Improve first-attempt success |                                 |
+| Acceptance-rate requirement | Capacity                 | Accept more orders            |                                 |
+
+Then answer:
+
+> **What is the fundamental principal-agent problem in last-mile delivery, and how do companies solve it through incentives?**
+
+---
+
+# 7. Employee vs Contractor vs Gig vs Franchise
+
+Build a detailed comparison.
+
+| Dimension               | Employee | Contractor | Gig Worker | Franchise Partner |
+| ----------------------- | -------- | ---------- | ---------- | ----------------- |
+| Employment relationship |          |            |            |                   |
+| Fixed pay               |          |            |            |                   |
+| Variable pay            |          |            |            |                   |
+| Vehicle ownership       |          |            |            |                   |
+| Fuel                    |          |            |            |                   |
+| Benefits                |          |            |            |                   |
+| Insurance               |          |            |            |                   |
+| Work flexibility        |          |            |            |                   |
+| Company control         |          |            |            |                   |
+| Company risk            |          |            |            |                   |
+| Worker risk             |          |            |            |                   |
+| Scalability             |          |            |            |                   |
+| Cost to company         |          |            |            |                   |
+
+Then explain **why a logistics company would choose one model over another.**
+
+---
+
+# 8. Why Does a Merchant Choose One Delivery Partner?
+
+This is the second major question.
+
+Imagine I am an Indian D2C company selling ₹500–₹5,000 products.
+
+I need to choose a logistics partner.
+
+What actually determines my decision?
+
+Investigate:
+
+### Price
+
+* Shipping rate
+* COD charges
+* RTO charges
+* Weight slabs
+* Zone pricing
+* Hidden fees
+
+### Coverage
+
+* PIN-code coverage
+* Tier 1
+* Tier 2
+* Tier 3
+* Rural
+* Northeast
+* Remote regions
+
+### Delivery performance
+
+* Average delivery time
+* SLA
+* First-attempt delivery rate
+* On-time delivery
+* Failed delivery rate
+* RTO rate
+
+### Customer experience
+
+* Tracking quality
+* SMS/WhatsApp notifications
+* Delivery-agent behavior
+* Rescheduling
+* Customer contact
+* Proof of delivery
+
+### Reverse logistics
+
+* Return pickup
+* Exchange
+* RTO
+* Refund support
+
+### COD
+
+* COD availability
+* COD reconciliation
+* Cash handling
+* Remittance time
+
+### Technology
+
+* API quality
+* Order management
+* Webhooks
+* Tracking APIs
+* Shopify/WooCommerce integrations
+* Analytics
+* Exception management
+
+### Reliability
+
+* Peak-season capacity
+* Network stability
+* Weather disruption
+* Strike/operational disruption
+* Capacity constraints
+
+### Commercial terms
+
+* Contract
+* Minimum volume
+* Credit period
+* Negotiated rates
+* Volume discounts
+
+---
+
+# 9. Construct a Merchant Decision Framework
+
+Pretend I am the founder of a D2C company.
+
+Create a decision matrix for selecting a logistics provider.
+
+Example:
+
+| Factor              | Weight | Provider A | Provider B | Provider C |
+| ------------------- | -----: | ---------: | ---------: | ---------: |
+| Cost                |    20% |            |            |            |
+| Delivery success    |    20% |            |            |            |
+| Coverage            |    15% |            |            |            |
+| RTO                 |    15% |            |            |            |
+| Technology          |    10% |            |            |            |
+| COD                 |    10% |            |            |            |
+| Returns             |     5% |            |            |            |
+| Customer experience |     5% |            |            |            |
+
+Then explain:
+
+> **Is the cheapest logistics provider actually the cheapest provider?**
+
+For example, show how a provider with a lower shipping rate can become more expensive because of:
+
+* RTO
+* failed deliveries
+* customer support
+* delayed COD remittance
+* damaged shipments
+* returns
+* lost customers
+
+---
+
+# 10. Why Shiprocket Exists
+
+Deep dive specifically into the strategic logic behind a logistics aggregator such as Shiprocket.
+
+Explain:
+
+> If Delhivery, DTDC, Blue Dart, XpressBees etc. already exist, why does an aggregator need to exist?
+
+Investigate:
+
+* Multi-carrier aggregation
+* Rate comparison
+* Merchant software
+* Order management
+* Carrier allocation
+* Analytics
+* Returns
+* COD
+* NDR management
+* Automation
+* SME enablement
+
+Explain the difference between:
+
+**Buying logistics capacity directly**
+
+vs
+
+**Buying logistics through an aggregator.**
+
+Then answer:
+
+> Does the aggregator primarily sell logistics, software, or both?
+
+---
+
+# 11. How Does Carrier Allocation Actually Work?
+
+Suppose a merchant uses Shiprocket.
+
+A customer places an order.
+
+How does the system decide:
+
+> "This shipment should go through Carrier X instead of Carrier Y"?
+
+Investigate possible routing variables:
+
+* Destination PIN code
+* Origin PIN code
+* Weight
+* Dimensions
+* Shipment value
+* COD/prepaid
+* SLA
+* Historical delivery performance
+* RTO probability
+* Carrier capacity
+* Price
+* Serviceability
+* Merchant preference
+* Product category
+* Fragility
+* Weather
+* Peak capacity
+
+Explain whether these decisions are:
+
+* Manual
+* Rule-based
+* Algorithmic
+* ML-driven
+* Dynamic
+
+---
+
+# 12. Last-Mile Density Economics
+
+Explain why **density** is so important.
+
+For example:
+
+If a delivery executive has:
+
+* 10 packages across 10 different locations
+
+versus
+
+* 50 packages concentrated in one locality
+
+the economics are completely different.
+
+Explain:
+
+* Route density
+* Drop density
+* Stops per hour
+* Packages per route
+* Cost per delivery
+* Cost per kilometer
+* Delivery executive utilization
+
+Then explain why:
+
+> **Network density can be a stronger competitive advantage than simply having more delivery workers.**
+
+---
+
+# 13. Unit Economics of the Delivery Network
+
+Investigate the major cost buckets:
+
+* Delivery executive compensation
+* Fuel
+* Vehicle
+* Sortation
+* Warehousing
+* Line haul
+* Hubs
+* Technology
+* Customer support
+* Loss/damage
+* Insurance
+* RTO
+* Reverse logistics
+* Corporate overhead
+
+Explain:
+
+### Fixed costs
+
+vs
+
+### Variable costs
+
+Then explain operating leverage.
+
+For example:
+
+> What happens to cost per shipment when shipment volume increases 2x while infrastructure remains relatively fixed?
+
+---
+
+# 14. RTO — Reverse Logistics — NDR
+
+Deep dive into the economics of failed delivery.
+
+Explain:
+
+**NDR = Non-Delivery Report/Reason**
+
+Investigate:
+
+* Customer unavailable
+* Incorrect address
+* Customer refused
+* Phone unreachable
+* COD refusal
+* Address issue
+* Delivery attempt failure
+
+Then explain:
+
+**Delivery → failed attempt → NDR → reattempt → RTO → return to merchant**
+
+Who pays at every stage?
+
+Why is RTO economically painful?
+
+How do logistics companies and merchants reduce it?
+
+What incentives can be given to delivery executives to reduce RTO?
+
+---
+
+# 15. Technology Stack
+
+Explain the technology behind modern logistics.
+
+Cover:
+
+* Order Management System
+* Transport Management System
+* Warehouse Management System
+* Routing
+* Dispatch
+* Shipment tracking
+* APIs
+* Webhooks
+* Geolocation
+* Route optimization
+* ETA prediction
+* Fraud detection
+* Address validation
+* PIN-code serviceability
+* NDR automation
+* RTO prediction
+* Demand forecasting
+* Workforce allocation
+
+Explain where AI/ML is actually useful versus where simple rules/optimization are sufficient.
+
+---
+
+# 16. Industry Evolution
+
+Research how Indian logistics has evolved over approximately the last 10–15 years.
+
+Build a timeline.
+
+Possible stages:
+
+**Traditional courier → e-commerce explosion → specialized e-commerce logistics → logistics startups → aggregators → tech-enabled networks → gig/crowdsourced delivery → AI/automation → integrated fulfillment/logistics platforms**
+
+Identify major changes and WHY they happened.
+
+Do not simply create a chronology.
+
+For each major evolution answer:
+
+> What economic problem was the new model solving?
+
+---
+
+# 17. Competitive Moats
+
+For companies such as Delhivery, Blue Dart, DTDC, Shiprocket, XpressBees, Shadowfax and other important players, investigate:
+
+* Network density
+* Brand
+* Technology
+* Merchant relationships
+* Pricing
+* Coverage
+* Fulfillment infrastructure
+* Data
+* Delivery workforce
+* Capital
+* Reliability
+* Scale
+* Switching costs
+
+Then answer:
+
+> **What is actually difficult for a new logistics company to replicate?**
+
+---
+
+# 18. Public Company / Financial Analysis
+
+Where public financial information exists, analyze:
+
+* Revenue
+* Revenue per shipment where available
+* Shipment volume
+* Gross margin
+* EBITDA
+* Contribution margin
+* Operating expenses
+* Employee costs
+* Delivery/transport costs
+* Capex
+* Cash flow
+
+Pay special attention to:
+
+> **Employee/contractor costs as a percentage of revenue**
+
+and
+
+> **Transportation/logistics costs as a percentage of revenue.**
+
+Use annual reports, investor presentations, stock exchange filings, regulatory filings, earnings calls, and official company disclosures wherever possible.
+
+---
+
+# 19. Labor Economics & Regulatory Risk
+
+Investigate how worker classification affects the economics.
+
+Compare:
+
+* Employee
+* Contractor
+* Gig worker
+* Franchise worker
+
+Research relevant Indian regulations and recent developments concerning:
+
+* Gig workers
+* Social security
+* Minimum earnings
+* Insurance
+* Worker protections
+* Platform responsibility
+* State-level rules
+* Occupational safety
+
+Do not give legal advice.
+
+Instead explain:
+
+> **How could regulatory changes affect the unit economics of logistics companies?**
+
+---
+
+# 20. Compare the Major Players
+
+Create a comprehensive comparison of approximately 8–12 important companies.
+
+For each company capture:
+
+* Business model
+* Core customer
+* B2B/B2C
+* Shipment types
+* Network
+* Coverage
+* Workforce model
+* Employee vs contractor vs gig
+* Asset ownership
+* Pricing model
+* Technology
+* Fulfillment
+* Reverse logistics
+* COD
+* Strength
+* Weakness
+* Competitive moat
+* Strategic positioning
+
+Do not force companies into categories if their models are hybrid.
+
+---
+
+# 21. The "One Package" Case Study
+
+At the end, create one detailed fictional case:
+
+> A D2C brand in Bengaluru sells a ₹1,500 product to a customer in Jaipur.
+
+Walk through the shipment from beginning to end.
+
+Show:
+
+1. Customer order
+2. Merchant OMS
+3. Logistics selection
+4. Pickup
+5. First-mile
+6. Sortation
+7. Line haul
+8. Destination hub
+9. Last-mile allocation
+10. Delivery executive
+11. Customer delivery
+12. COD if applicable
+13. Failed delivery if applicable
+14. Return if applicable
+15. Money settlement
+
+At EVERY stage answer:
+
+**Who acts?
+Who owns the asset?
+Who gets paid?
+Who bears the risk?
+What technology is used?
+What incentive exists?**
+
+---
+
+# 22. The Core Strategic Questions
+
+Your final research must explicitly answer these questions.
+
+### Merchant side
+
+1. Why would a merchant choose Delhivery over Blue Dart?
+2. Why would a merchant use Shiprocket instead of contracting directly with carriers?
+3. When is price more important than reliability?
+4. When is reliability more important than price?
+5. Why does RTO matter so much?
+6. How important is COD?
+7. How important is PIN-code coverage?
+8. How important is API/technology integration?
+9. Why would a merchant use multiple logistics providers rather than one?
+
+### Logistics company side
+
+10. What determines the cost of one delivery?
+11. What determines delivery executive earnings?
+12. Why use employees versus gig workers?
+13. Why use franchise partners?
+14. How do companies ensure workers accept enough deliveries?
+15. How do incentives affect delivery quality?
+16. How do companies handle peak demand?
+17. Why is network density so important?
+18. What makes logistics a scale business?
+
+### Worker side
+
+19. How much of delivery-worker income is fixed versus variable?
+20. Who pays for fuel?
+21. Who owns the vehicle?
+22. Who pays for insurance?
+23. What happens when there are no deliveries?
+24. What happens during peak demand?
+25. What happens after failed deliveries?
+26. What causes workers to leave?
+
+### Industry side
+
+27. What are the biggest structural problems in Indian logistics?
+28. What innovations are actually solving those problems?
+29. Where is AI genuinely changing the industry?
+30. What will the logistics industry look like 5 years from now?
+
+---
+
+# 23. Research Standards
+
+This is a serious research project.
+
+Prioritize sources in this order:
+
+### Tier 1 — Primary sources
+
+* Company annual reports
+* Investor presentations
+* Earnings calls
+* Regulatory filings
+* Stock exchange filings
+* Government reports
+* IRDAI/other regulators where relevant
+* Ministry reports
+* Official company documentation
+
+### Tier 2 — High-quality industry sources
+
+* McKinsey
+* BCG
+* Bain
+* Redseer
+* Deloitte
+* EY
+* KPMG
+* NASSCOM
+* IBEF
+* Industry associations
+
+### Tier 3 — High-quality journalism
+
+* Economic Times
+* Mint
+* Business Standard
+* Moneycontrol
+* Reuters
+* Financial Times
+* The Hindu BusinessLine
+* Other reputable publications
+
+### Tier 4 — Ground-level evidence
+
+Use:
+
+* Job postings
+* Delivery-worker interviews
+* Worker forums
+* Reddit discussions
+* YouTube interviews
+* Glassdoor
+* AmbitionBox
+* Public social media discussions
+
+Use these particularly to understand **worker experience and actual incentive structures**, but clearly distinguish anecdotal evidence from verified company policy.
+
+---
+
+# 24. Evidence Discipline
+
+For every important numerical claim, provide:
+
+**Number → Year → Geography → Source → What exactly it measures**
+
+Do not mix:
+
+* Revenue with GMV
+* Gross salary with take-home pay
+* Company payout with worker net income
+* Shipment price with total logistics cost
+* Illustrative economics with actual company economics
+
+If reliable data does not exist, say:
+
+> "Publicly available data is insufficient to determine this."
+
+Do not invent numbers.
+
+When sources disagree, show the disagreement and explain possible reasons.
+
+---
+
+# 25. Final Deliverable
+
+Structure the final research report as:
+
+## Executive Summary
+
+Explain the entire industry in simple language.
+
+## 1. Industry Map
+
+## 2. How One Package Moves
+
+## 3. Business Models
+
+## 4. Who Pays Whom
+
+## 5. Delivery Executive Economics
+
+## 6. Incentive Architecture
+
+## 7. Employee vs Gig vs Contractor vs Franchise
+
+## 8. Merchant Logistics-Partner Selection
+
+## 9. Shiprocket and Aggregator Economics
+
+## 10. Carrier Selection Algorithms
+
+## 11. Last-Mile Density
+
+## 12. RTO / NDR / Reverse Logistics
+
+## 13. Technology Stack
+
+## 14. Industry Evolution
+
+## 15. Major Company Comparison
+
+## 16. Financial / Unit Economics
+
+## 17. Labor & Regulatory Dynamics
+
+## 18. Competitive Moats
+
+## 19. One-Package Case Study
+
+## 20. Future of Indian Logistics
+
+---
+
+# MOST IMPORTANT OUTPUT
+
+At the very end, create a section called:
+
+# "The Economics of One Delivery"
+
+Reduce the entire industry to one diagram:
+
+**Merchant**
+↓
+**Logistics provider / Aggregator**
+↓
+**Fulfillment / Warehouse**
+↓
+**First Mile**
+↓
+**Sortation**
+↓
+**Line Haul**
+↓
+**Destination Hub**
+↓
+**Last Mile**
+↓
+**Delivery Executive**
+↓
+**Consumer**
+
+For every arrow, show:
+
+**Money → Incentive → Risk → Data → Decision**
+
+Then explain in plain English:
+
+> **If I were launching a D2C business tomorrow, how should I choose my logistics partners?**
+
+And:
+
+> **If I were building a new logistics company tomorrow, where could I create a structural advantage?**
+
+Finally provide:
+
+### 10 Most Important Insights
+
+### 10 Biggest Industry Problems
+
+### 10 Biggest Innovation Opportunities
+
+### 10 Metrics I Should Track
+
+### 10 Questions I Should Ask Any Logistics Company
+
+The goal is that after reading this report, I should be able to have a **30–60 minute intelligent conversation with a senior executive from Delhivery, Shiprocket, Blue Dart, DTDC, Shadowfax or another major logistics company** and understand the economics and strategic trade-offs they are discussing.
