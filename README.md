@@ -43,6 +43,19 @@ This is an outsider's synthesis of public sources, not insider knowledge, and it
 about any one company. Treat the numbers as directional and verify anything load-bearing
 before you build a plan on it.
 
+## Licence
+
+[CC BY 4.0](LICENSE). Use it, quote it, build on it, teach from it. Credit and a
+link back is all it asks. The filings and datasets it cites belong to their
+publishers and are linked in full in the Evidence and sources section, so you can
+check any number against the original rather than against me.
+
+## Corrections welcome
+
+If you work in this industry and something here is wrong, open an issue. An
+outsider's model of a business is wrong in ways the outsider cannot see, and I
+would rather have it corrected than have it confident.
+
 ---
 
 Built by **Pawanchander Komuravelli** · [pawanchander.com](https://pawanchander.com) · [thebackbench.in](https://thebackbench.in)
